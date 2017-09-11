@@ -1,3 +1,3 @@
 # Arduino
 
-This repositary contains Arduino scatches. 
+This repository contains Arduino sketches.
